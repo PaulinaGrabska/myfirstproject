@@ -3,6 +3,8 @@ public class HelloWorld {
 
         System.out.println("Hello World!");
         System.out.println("Ucze sie programowania i commitowania");
+        System.out.println("Ucze sie programowania i commitowania 3");
+
 
 
 
